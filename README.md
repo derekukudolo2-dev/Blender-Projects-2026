@@ -1,6 +1,6 @@
 # <u><font size="7">Learning Blender</font></u>
 <Font size= 5>Just a little compilation of my work so far:</font>
-<Font size=4>Hopefully daily updates</font>
+
 
 ## First Work Of 2026
 <img src="Untitled.jpg">
