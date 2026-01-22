@@ -14,5 +14,9 @@
 ## Progress Update 4
 <image src="Tissue .png">
 
-## Progress Update 5
-<image src="Sword.png">
+
+
+
+
+
+<Font size= 6>Focused on practicing my modeling so no finished renders for now but the files are available</font>
